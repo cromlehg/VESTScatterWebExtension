@@ -1,7 +1,7 @@
 
 export const Blockchains = {
     EOS:'eos',
-    ETH:'eth'
+    // ETH:'eth'
 };
 
 export const BlockchainsArray =
